@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**msalik42/msalik42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Salik. Thanks for dropping by! I like to Code. I'm in love with React Native and NodeJs and I am experienced in developing Android and iOS applications using React Native, I am skilled at leveraging its capabilities to deliver cross-platform mobile solutions, and utilizing Node.js for building robust server-side applications. Committed to delivering exceptional results and staying updated with the latest industry trends. 
 
 <h3> 👨🏻‍💻 About Me </h3>
